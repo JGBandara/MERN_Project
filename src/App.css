@@ -1,0 +1,46 @@
+
+
+.App{
+  background-color: #27011e;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+  border-radius: 12px;
+}
+h1{
+  color: rgb(145, 11, 138);
+  font-style: inherit;
+  font-family: serif;
+  padding-left: 100px;
+  padding-top: 15px;
+  
+}
+h3{
+  color:rgb(153, 11, 158);
+}
+label{
+  color:rgb(124, 11, 90)
+}
+#all{
+
+  border:0;
+  width:40%;
+  height:50px;
+  padding: 0 20px;
+  margin: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: rgb(66, 3, 49);
+
+
+
+}
+#header{
+  color: blueviolet;
+}
+
+
+
+
+
+
